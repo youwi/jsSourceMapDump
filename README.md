@@ -1,5 +1,8 @@
-反向把源码解压出来,
-目标不纯
+反向把源码解压出来
+还不支持http的
+
+不再维护.
+
 
 this script will parse javascript source map file to source file.
 
